@@ -112,3 +112,14 @@ lower risk.
 
 ## Conclusion
 The Random Forest model effectively predicts loan risk, achieving a testing accuracy of approximately 90%. While the model performs exceptionally well on training data, careful tuning and validation are crucial to prevent overfitting and ensure reliable predictions on new data. The main deciding factors such as credit score and employment status provide valuable insights into the risk assessment process. 
+
+## Data Visualization and Exploration
+
+![output](https://github.com/user-attachments/assets/9c16a5d7-9866-449e-9725-a296172364bd)
+![output1](https://github.com/user-attachments/assets/be33a1de-4c61-4f6e-95fc-9bd95b038402)
+![output2](https://github.com/user-attachments/assets/9d738c1e-2de6-4c27-a596-3a36ff7aadb1)
+![output3](https://github.com/user-attachments/assets/f9b9a799-a1c8-4657-b03c-5c34ca7ab91d)
+![output4](https://github.com/user-attachments/assets/8dda6cbd-b5cf-405d-a12d-9051c91ca4b6)
+![output5](https://github.com/user-attachments/assets/5fe6cac6-f940-4a01-9335-663f3888cf66)
+![output6](https://github.com/user-attachments/assets/5e6e63fd-7a9b-466e-9193-5bfa72de9a54)
+![output7](https://github.com/user-attachments/assets/4bf210fa-9edc-4e14-b0b1-4968892a9758)
